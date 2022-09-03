@@ -2,6 +2,8 @@
 
 Task Management Application illustrating Vue components, properties and events.
 
+Available in [https://github.com/upc-pre-202202-si730-wv51/tasky]
+
 
 ## Project Setup
 
